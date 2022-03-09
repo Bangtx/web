@@ -36,7 +36,7 @@ const ListPatientDialog = {
   data() {
     return {
       // baseUrl: 'https://backendlinhmai.herokuapp.com',
-      baseUrl: 'http://45.117.80.122:8000',
+      baseUrl: 'https://backendlinhmai.herokuapp.com',
       patients: []
     }
   },

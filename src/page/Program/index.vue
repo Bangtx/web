@@ -104,7 +104,7 @@ const Program = {
   },
   data () {
     return {
-      baseUrl: 'http://45.117.80.122:8000',
+      baseUrl: 'https://backendlinhmai.herokuapp.com',
       point: [0, 0, 0, 0, 0, 0, 0, 0],
       imageName: {name: '', yes: false},
       dataPatient: {},

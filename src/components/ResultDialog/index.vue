@@ -103,7 +103,7 @@ const ResultDialog = {
         { recommend: 'Lấy mẫu sinh thiết và phẫu thuật loại bỏ', result: '95% khả năng ung thư'},
         { recommend: 'Lấy mẫu sinh thiết và phẫu thuật loại bỏ', result: '96% khả năng ung thư'}
       ],
-      baseUrl: 'http://45.117.80.122:8000'
+      baseUrl: 'https://backendlinhmai.herokuapp.com'
       // baseUrl: 'https://backendlinhmai.herokuapp.com'
     }
   },
